@@ -32,7 +32,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/GooseTrack-frontend">
+        <BrowserRouter basename="/react_node_fs_63_STIg89">
           <App />
         </BrowserRouter>
       </PersistGate>
