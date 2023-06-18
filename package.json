@@ -2,7 +2,7 @@
   "name": "GooseTrack-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_63_STIg89/",
+  "homepage": "https://goitstudentsworks.github.io/react_node_fs_63_STIg89/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
